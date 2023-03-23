@@ -3,6 +3,10 @@
     padding: 0;
     margin: 0;
 }
+:root{
+    --primary-textcolor:#3FC060;
+    --secundary-textcolor:#162328;
+}
 
 body
 {

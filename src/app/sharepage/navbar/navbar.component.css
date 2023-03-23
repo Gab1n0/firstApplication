@@ -1,0 +1,6 @@
+.active-link  
+{
+    font-weight: bold;
+    color: var(--primary-textcolor);
+    text-decoration: underline;
+}
