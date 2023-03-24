@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
 }
+/*mit :root kann man übergreifende variablen festlegen --> aufruf dann mit var(--varName)*/
 :root{
     --primary-textcolor:#3FC060;
     --secundary-textcolor:#162328;
@@ -10,5 +11,6 @@
 
 body
 {
+    height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
 }
