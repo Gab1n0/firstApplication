@@ -11,9 +11,10 @@ export class OrderDetailsService {
   foodDetails = [
     {
       id: 1,
-      foodName: "xy",
-      foodDetails: "xyzzzz",
+      foodName: "Cheeseburger",
+      foodDetails: "Cheeseburger, beef patty 180g",
       foodPrice: 200,
+      foodImg: "https://unsplash.com/de/fotos/jh5XyK4Rr3Y?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
     }
   ]
 }
