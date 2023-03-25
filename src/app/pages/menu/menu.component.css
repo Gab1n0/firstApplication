@@ -1,0 +1,19 @@
+.foodbox
+{
+    padding: 10px 5px;
+}
+
+.foodbox h1
+{
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.buyBtn
+{
+    background-color: grey;
+    color: var(--primary-textcolor);
+    border-radius: 5px;
+    padding: 10px 10px;
+    cursor: pointer;
+}
